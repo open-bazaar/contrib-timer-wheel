@@ -37,7 +37,7 @@ wheels = [
 
 [[package]]
 name = "bazaar-contrib-timer-wheel"
-version = "0.3.0rc9"
+version = "0.3.0rc10"
 source = { editable = "." }
 dependencies = [
     { name = "bazaar-contrib-timer" },

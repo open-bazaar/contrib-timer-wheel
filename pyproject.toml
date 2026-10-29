@@ -1,6 +1,6 @@
 [project]
 name = "bazaar-contrib-timer-wheel"
-version = "0.3.0rc9"
+version = "0.3.0rc10"
 description = "Shared hierarchical timing wheel"
 readme = "README.md"
 license = "Apache-2.0"
